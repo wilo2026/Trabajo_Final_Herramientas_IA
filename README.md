@@ -1,4 +1,4 @@
-# proyecto FInal
+# Proyecto Final
 # Dataset inicial y final
 # Schema.sql
 # academico.db
